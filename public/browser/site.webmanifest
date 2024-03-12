@@ -1,0 +1,22 @@
+{
+  "background_color": "#7878fa",
+  "description": "English from Cyril Strone",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/browser/android-chrome-192x192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "/browser/android-chrome-512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ru",
+  "name": "Strone English",
+  "short_name": "Strone English",
+  "start_url": "/",
+  "theme_color": "#7878fa"
+}
